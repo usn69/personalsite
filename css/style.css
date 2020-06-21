@@ -40,31 +40,29 @@ a {
 .top-container {
     background-color: #EAF6F6;
     position: relative;
-    padding-top: 60px;
+    padding-top: 21.38rem;
 }
 .mountain-img {
     width: 50%;
     margin: auto;
     display: block;
-    padding-top: 2px;
+    padding-top: 0.125rem;
 
 }
 .top-cloud {
     position: absolute;
     height: auto;
     width: 10%;
-    top: 8px;
-    left: 16px;
-    padding-left: 150px;
+    left: 1rem;
+    top: 28.88rem;
 
 }
 .bottom-cloud {
     position: absolute;
     height: auto;
-    top: 300px;
-    right: 16px;
+    top: 18.75rem;
+    right: 1rem;
     width: 10%;
-    padding-right: 150px;
 }
 /**  ################## Middle Container ################## **/
 /*.middle-container {}*/
@@ -73,7 +71,6 @@ a {
     text-decoration: underline;
     margin-left: 0.675rem;
 }
-
 .codeman {
     float: left;
     width: 20%;
@@ -82,6 +79,7 @@ a {
 }
 .skills {
     height: 43.75rem;
+    padding-bottom: 2.25rem;
 }
 .codding-cat {
     float: right;
@@ -92,23 +90,23 @@ a {
 }
 .stsentence {
     width: 50%;
-    margin: 100px auto;
+    margin: 6.25rem auto;
     text-align: left;
     line-height: 1.6rem;
     text-align: center;
 }
 .whatami {
     width: 50%;
-    margin: 100px auto;
+    margin: 6.25rem auto;
     text-align: left;
     line-height: 1.6rem;
 }
 .skill-row {
     width: 50%;
-    margin: 100px auto;
+    margin: 6.25rem auto;
     text-align: left;
     line-height: 1.6rem;
-    margin-bottom: 250px;
+    margin-bottom: 15.63rem;
 
 }
 /**  ################## Bottom Container ################## **/
@@ -119,8 +117,9 @@ a {
 .bottom-container {
     background-color: #EAF6F6;
     position: relative;
-    padding-top: 30px;
-    padding-bottom: 15px;
+    padding-top: 1.875rem;
+    padding-bottom: 0.9375rem;
+    margin-bottom: 1.875rem;
 }
 
 .BUTTON_PUD {
@@ -135,7 +134,7 @@ a {
     border-radius: 20px;
     color: #FFFFFF;
     font-family: Open Sans;
-    font-size: 15px;
+    font-size: 0.9375rem;
     font-weight: 100;
     padding: 10px;
     box-shadow: 1px 1px 10px 0 #000000;
@@ -166,7 +165,7 @@ a {
 }
 .contact-me {
     width: 50%;
-    margin: 100px auto;
+    margin: 6.25rem auto;
     text-align: left;
     line-height: 1.6rem;
     text-align: center;
@@ -179,4 +178,11 @@ a {
 #programmer {
     font-weight: normal;
     line-height: 1.6rem;
+}
+#hr {
+    margin-top: 8.438rem;
+}
+#p {
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
 }
