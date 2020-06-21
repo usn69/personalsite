@@ -32,8 +32,7 @@ h3 {
     color: #66BFBF;
 }
 a {
-    color: #40514E
-    ;
+    color: #40514E;
 }
 
 /**  ################## Class ################## **/
@@ -43,13 +42,29 @@ a {
     position: relative;
     padding-top: 60px;
 }
+.mountain-img {
+    width: 50%;
+    margin: auto;
+    display: block;
+    padding-top: 2px;
+
+}
 .top-cloud {
     position: absolute;
-    left: 350px;
+    height: auto;
+    width: 10%;
+    top: 8px;
+    left: 16px;
+    padding-left: 150px;
+
 }
 .bottom-cloud {
     position: absolute;
-    top: 450px;
+    height: auto;
+    top: 300px;
+    right: 16px;
+    width: 10%;
+    padding-right: 150px;
 }
 /**  ################## Middle Container ################## **/
 /*.middle-container {}*/
@@ -75,7 +90,7 @@ a {
     margin-left: 3.875rem;
 
 }
-.stsentence{
+.stsentence {
     width: 50%;
     margin: 100px auto;
     text-align: left;
@@ -97,9 +112,9 @@ a {
 
 }
 /**  ################## Bottom Container ################## **/
-.audio{
-    height: 0px;
-    width: 0px;
+.audio {
+    height: 0;
+    width: 0;
 }
 .bottom-container {
     background-color: #EAF6F6;
@@ -149,7 +164,7 @@ a {
     border-radius: 20px;
     text-decoration: none;
 }
-.contact-me{
+.contact-me {
     width: 50%;
     margin: 100px auto;
     text-align: left;
@@ -160,9 +175,6 @@ a {
 /**  ################## Ids ################## **/
 #higorblands {
     border-radius: 50%;
-}
-#mountain-img {
-    padding-top: 130px;
 }
 #programmer {
     font-weight: normal;
