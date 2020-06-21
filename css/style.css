@@ -110,10 +110,6 @@ a {
 
 }
 /**  ################## Bottom Container ################## **/
-.audio {
-    height: 0;
-    width: 0;
-}
 .bottom-container {
     background-color: #EAF6F6;
     position: relative;
