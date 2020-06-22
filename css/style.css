@@ -40,7 +40,7 @@ a {
 .top-container {
     background-color: #EAF6F6;
     position: relative;
-    padding-top: 0.5375rem;
+    padding-top: 7.5375rem;
 }
 .mountain-img {
     width: 50%;
@@ -54,13 +54,13 @@ a {
     height: auto;
     width: 10%;
     left: 1rem;
-    top: 8.88rem;
+    top: 5.88rem;
 
 }
 .bottom-cloud {
     position: absolute;
     height: auto;
-    top: 18.75rem;
+    top: 21.75rem;
     right: 1rem;
     width: 10%;
 }
@@ -115,12 +115,6 @@ a {
 .audio {
     height: 0;
     width: 0;
-}
-.bottom-container {
-    position: relative;
-    background-color: #EAF6F6;
-    padding-top: 1.875rem;
-    padding-bottom: 0.9375rem;
 }
 
 .BUTTON_PUD {
