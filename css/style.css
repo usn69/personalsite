@@ -65,7 +65,9 @@ a {
     width: 10%;
 }
 /**  ################## Middle Container ################## **/
-/*.middle-container {}*/
+.middle-container {
+    position: relative;
+}
 
 .pro {
     text-decoration: underline;
@@ -110,12 +112,15 @@ a {
 
 }
 /**  ################## Bottom Container ################## **/
+.audio {
+    height: 0;
+    width: 0;
+}
 .bottom-container {
-    background-color: #EAF6F6;
     position: relative;
+    background-color: #EAF6F6;
     padding-top: 1.875rem;
     padding-bottom: 0.9375rem;
-    margin-bottom: 7.875rem;
 }
 
 .BUTTON_PUD {
@@ -162,7 +167,6 @@ a {
 .contact-me {
     width: 50%;
     margin: 6.25rem auto;
-    text-align: left;
     line-height: 1.6rem;
     text-align: center;
 }
@@ -177,6 +181,9 @@ a {
 }
 #hr {
     margin-top: 8.438rem;
+}
+#hr2{
+    position: relative;
 }
 #p {
     margin-top: 0.625rem;
