@@ -40,7 +40,7 @@ a {
 .top-container {
     background-color: #EAF6F6;
     position: relative;
-    padding-top: 7.5375rem;
+    padding-top: 5.5375rem;
 }
 .mountain-img {
     width: 50%;
@@ -54,7 +54,7 @@ a {
     height: auto;
     width: 10%;
     left: 1rem;
-    top: 5.88rem;
+    top: 3.88rem;
 
 }
 .bottom-cloud {
@@ -176,7 +176,7 @@ a {
 #hr {
     margin-top: 8.438rem;
 }
-#hr2{
+#hr2 {
     position: relative;
 }
 #p {
